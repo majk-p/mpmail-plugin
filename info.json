@@ -1,0 +1,9 @@
+{
+    "name": "mpmail",
+    "displayName": "Mail with default client",
+    "description": "Sends mail with your default mail client",
+    "examples": ["nowy mail", "mail do john@example.net"], 
+    "categories": ["Utilities"],
+    "creator_name": "MichalP",
+    "creator_url": "michalp.net"
+}

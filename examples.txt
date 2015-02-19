@@ -1,0 +1,4 @@
+nowy mail
+mail do ~addr(john@example.net)
+napisz do ~addr(john@example.net)
+wiadomość do ~addr(john@example.net)
